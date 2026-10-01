@@ -11,6 +11,7 @@ Cierre del curso: después de administrar Linux (Unidad 1) y Windows Server (Uni
 - [01_interoperabilidad.md](01_interoperabilidad.md) — 4.1 Interoperabilidad: sistemas de archivos y recursos (NFS, SMB/Samba) · comunicación entre procesos (sockets, RPC)
 - [02_practica_samba.md](02_practica_samba.md) — Práctica guiada: levantar un servidor Samba real, compartir un recurso y verificar interoperabilidad de punta a punta (servidor + cliente, protocolo SMB real)
 - [03_actividades_evaluacion.md](03_actividades_evaluacion.md) — Actividades de aprendizaje y evaluación
+- [04_proyecto_distros_seguridad.md](04_proyecto_distros_seguridad.md) — Proyecto de cierre por equipos: prueba de concepto de distribuciones Linux orientadas a seguridad y forense (Kali, CAINE, Tails, Qubes OS, entre otras)
 
 ## Nota sobre el código
 
