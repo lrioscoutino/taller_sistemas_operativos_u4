@@ -82,6 +82,19 @@ Estas distribuciones incluyen herramientas ofensivas reales (escáneres, explota
 
 **Nunca** contra redes, dispositivos o cuentas de terceros, de la escuela, o de otros estudiantes, sin autorización explícita y por escrito. Usar estas herramientas contra sistemas sin autorización es un delito en México (Código Penal Federal, artículos sobre acceso ilícito a sistemas informáticos) y en la mayoría de los países — la línea entre "proyecto escolar" y "delito informático" es exactamente esa autorización.
 
+### Ejemplos concretos — para que no quede ambigüedad
+
+| ✅ SÍ está permitido | ❌ NO está permitido |
+|---|---|
+| Escanear con Nmap una Metasploitable2 corriendo en tu propia VM | Escanear la red del salón, de la escuela, o de tu casa compartida sin permiso explícito de cada dueño del equipo |
+| Explotar una vulnerabilidad conocida de DVWA/VulnHub que tú mismo levantaste | Explotar el WiFi, router o cualquier dispositivo de un compañero, vecino o cafetería "para probar si se puede" |
+| Analizar una imagen de disco descargada de *Digital Corpora* o *NIST CFReDS* | Analizar el celular, laptop o cuenta de redes sociales de otra persona sin su consentimiento por escrito |
+| Resolver una sala gratuita de TryHackMe/HackTheBox con tu propia cuenta | Intentar acceder a sistemas de la escuela (portal de calificaciones, Wi-Fi institucional, servidores del TecNM) |
+| Crackear un hash o contraseña que **tú mismo generaste** para la demo | Crackear una contraseña real de un compañero, de una cuenta institucional, o capturada de tráfico ajeno |
+| Grabar la demo usando tus propias VMs como "víctima" y "atacante" | Usar la demo en vivo para atacar algo fuera del laboratorio controlado "ya que estamos" |
+
+**Regla simple para decidir en el momento:** si el objetivo no es una VM/imagen/cuenta que tú mismo creaste o descargaste de un repositorio educativo explícitamente diseñado para esto, **no lo ataques** — pregúntale al profesor antes, no después.
+
 ## Evaluación sugerida
 
 | Evidencia | Qué valora |
